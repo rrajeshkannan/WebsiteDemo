@@ -1,0 +1,10 @@
+h1,
+h2,
+h3 {
+  /*color: #36c;*/
+  color: crimson;
+  font-weight: normal;
+  letter-spacing: 0.4em;
+  margin-bottom: 1em;
+  text-transform: lowercase;
+}
